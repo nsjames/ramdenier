@@ -5,7 +5,7 @@ Denies the transfer of RAM and tokens to the account, unless it's from `eosio`
 ## Build and test
 
 ```
-npx fuckyeah build
+npx fuckyea build
 
-npx fuckyeah test
+npx fuckyea test
 ```
